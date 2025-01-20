@@ -1,0 +1,5 @@
+num x = 10;
+text y = "Hello";
+if (x >= 5) {
+    x = x + 1;
+}
